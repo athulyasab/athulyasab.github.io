@@ -1,0 +1,146 @@
+/* reffered w3 schools=https://www.w3schools.com*/
+body{
+    background-color:#7592c8 ;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+/*Style the h1*/
+
+h1{ text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:lighter;
+    background-color:#7d06e5;
+    padding:2px;
+}
+/*Styles the p*/
+p{
+    color:#000000;
+    text-align:center;
+    font-size:40px;
+    font-weight:bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/*styles the class selector */
+.myheading{text-align: left;
+           font-size: 25px;
+           color: #000000;
+}
+
+/*styles table*/
+td{
+    border: 2px solid #000000;
+    font-size:20px;
+}
+
+table{border-style: inherit;
+     width:100%;
+     border: 2px solid #000000;
+     font-size:20px;}
+th{height:70px;
+    border: 2px solid #000000;
+     font-size:20px;
+}
+/*styles class selector*/
+.para{
+    color:#000000;
+    text-align:left;
+    font-size:20px;
+    font-style:normal;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*list  gets styling*/
+ul{
+    list-style: disc;
+    color:black;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ol{
+    color:black;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+
+h2{
+    color:#e70e0e;
+    font-style:normal;
+    font-size:30px;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+p1{color:#000000;
+    font-style:normal;
+    font-size:30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#link {float:none;
+       display:block;
+       background-color: #a7973d;}
+/*navigation bar style for second page*/
+#link .a{
+    color:#000000;
+    text-decoration:underline;
+    padding:4px;
+    font-size:20px}
+
+    h2{
+        background-color:#7d06e5;
+        padding:30px;
+        text-align:center;
+        font-size:35px;
+        color:white;}
+
+
+/*styling for second page starts here*/
+.prj{
+    color:#ff0000;
+    font-size:50px;
+    font-family:arial;
+    text-align:center;
+}
+
+.projectname{
+    color:#ffff00;
+    font-size:40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+}
+/* styling for links*/
+a:hover{
+    color:#ffff00;
+    
+}
+
+
+
+h3{
+    font-weight: 100;
+    font-size:40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+    
+.text{
+        background-color:#cdabeb;
+        padding:30px;
+        text-align:center;
+        font-size:35px;
+        color:white;}
+
+
+
+
+
+
