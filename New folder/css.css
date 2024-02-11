@@ -1,0 +1,168 @@
+/* reffered w3 schools=https://www.w3schools.com*/
+body{
+    background-color:#edeff3 ;
+    font-family:'Times New Roman', Times, serif;
+    border: 5px solid black;
+ 
+    padding-top: 100px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
+
+
+/*Style the h1*/
+
+h1{ text-align: center;
+    font-size: 40px;
+    color: #000000;
+    font-family:'Trebuchet MS';
+   
+}
+/*Styles the p*/
+p{
+    color:#000000;
+    text-align:center;
+    font-size:40px;
+    
+    font-family:'Trebuchet MS';
+}
+
+
+/*styles the class selector */
+.myheading{text-align:left;
+           font-size: 20px;
+           color: #000000;
+           font-family: 'Franklin Gothic Medium';
+}
+
+/*styles table*/
+td{
+    border: 1px solid #000000;
+    font-size:20px;
+    font-family: Calibri;
+}
+
+table{border-style:inherit;
+     width:100%;
+     border: 1px solid #000000;
+     font-size:10px;}
+th{height:40px;
+    border: 1px solid #000000;
+     font-size:18px;
+     font-family:Arial;
+}
+/*styles class selector*/
+.para{
+    color:#000000;
+    text-align:left;
+    font-size:20px;
+    font-style:normal;
+    font-family:Calibri;
+}
+
+/*list  gets styling*/
+
+ul.skills{
+    list-style:disc;
+   
+    color:black;
+    font-size: 20px;
+    font-family:Calibri;
+}
+li.details{
+    float:none;
+}
+
+
+
+ol.achievements{
+    color:black;
+    font-size: 20px;
+    font-family:Calibri; 
+}
+
+
+
+
+
+p1{color:#000000;
+    font-style:normal;
+    font-size:30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+    h2{
+        background-color:#918e8a;
+        /* padding:20px; */
+        padding-left:100px;
+        padding-right:100px;
+        text-align:center;
+        font-size:30px;
+        color:#272729;
+        font-family: Verdana;
+    }
+
+
+
+
+/* styling for links*/
+a:hover{
+    color:#b9615b;
+    
+}
+
+
+
+p2{
+    font-weight: 100;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium';
+    
+    padding: 30px;
+    
+}
+
+
+
+    
+.text{
+        
+        padding:30px;
+        text-align:justify;
+        font-size:20px;
+        color:rgb(0, 0, 0);
+        font-family:Calibri;
+    }
+
+ul.nav {
+        list-style-type:none;
+        padding-left: 10px;
+        padding-right:10px;
+        overflow:auto;
+        
+}
+      
+li {
+        float: left;
+}
+      
+li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        text-align: center;
+        
+        padding: 15px 10px;
+        text-decoration:underline;
+}
+      
+      li a:hover:not(.active) {
+        background-color: #f0efef;
+      }
+      
+      .active {
+        background-color: #a09fa7;
+      }
